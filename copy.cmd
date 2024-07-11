@@ -1,0 +1,10 @@
+scp ubuntu@mangatv.shop:/home/ubuntu/chatgpt/opened.json .
+scp ubuntu@mangatv.shop:/home/ubuntu/chatgpt/trials.json .
+scp ubuntu@mangatv.shop:/home/ubuntu/chatgpt/suffix.json .
+scp ubuntu@mangatv.shop:/home/ubuntu/chatgpt/skips.json .
+scp ubuntu@mangatv.shop:/home/ubuntu/chatgpt/temp.json .
+scp ubuntu@mangatv.shop:/home/ubuntu/chatgpt/time.json .
+scp ubuntu@mangatv.shop:/home/ubuntu/chatgpt/context.json .
+scp ubuntu@mangatv.shop:/home/ubuntu/chatgpt/money.json .
+scp ubuntu@mangatv.shop:/home/ubuntu/.pm2/logs/chatgpt-error.log .
+scp ubuntu@mangatv.shop:/home/ubuntu/.pm2/logs/chatgpt-out.log .
